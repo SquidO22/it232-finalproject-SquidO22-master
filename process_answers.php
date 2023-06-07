@@ -14,7 +14,7 @@ foreach ($submittedAnswers as $index => $submittedAnswer) {
 
     if ($submittedAnswer === $correctAnswer) {
         $score++;
-    }
+     }
 }
 
 $totalQuestions = count($questions);

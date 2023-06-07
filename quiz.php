@@ -27,5 +27,5 @@ foreach ($questions as $questionIndex => $question) {
 <input type='submit' value='Submit'>
 </form>
 <?php include 'footer.php'; ?>
-</body>
+    </body>
 </html>

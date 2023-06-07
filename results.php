@@ -16,5 +16,5 @@ $percentageScore = filter_input(INPUT_GET, "score", FILTER_VALIDATE_INT);
 <h2>Quiz Results</h2>;
 <p>Percentage Score:<?= $percentageScore ?> %</p>;
 
-</body>
+    </body>
 </html>

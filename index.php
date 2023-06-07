@@ -14,7 +14,6 @@
     </p>Test your knowledge</p>
     <p>Click the button below to start the quiz.</p>
     <a href="quiz.php" class="start-button">Start Quiz</a>
-
     <?php include 'footer.php'; ?>
 </body>
 </html>
